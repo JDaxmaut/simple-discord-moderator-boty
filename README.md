@@ -1,5 +1,7 @@
 # Discord Модератор Бот
 
+![preview](https://raw.githubusercontent.com/JDaxmaut/simple-discord-moderator-boty/main/image.png)
+
 Бот для модерации Discord сервера. Автоматически удаляет сообщения с запрещёнными словами и выдаёт мут нарушителям.
 
 ## Команды
