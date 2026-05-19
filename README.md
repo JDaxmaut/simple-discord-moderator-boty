@@ -1,4 +1,8 @@
+![preview](https://raw.githubusercontent.com/JDaxmaut/simple-discord-moderator-boty/main/image.png)
+
 # Discord Модератор Бот
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![discord.py](https://img.shields.io/badge/discord.py-2.0+-green.svg)
