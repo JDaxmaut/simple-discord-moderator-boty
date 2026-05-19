@@ -52,7 +52,8 @@ class Filters(commands.Cog):
                     timedelta(minutes=MUTE_TIME),
                     reason="Использование запрещенных слов"
                 )
-            except discord.Forbidden:
+            except discord.Forbidden: 
+		# Если у бота не хватило прав (например, нарушитель — админ или овнер)
                 pass
             
             embed = discord.Embed(
@@ -63,6 +64,7 @@ class Filters(commands.Cog):
             await message.channel.send(embed=embed)
         
         await self.bot.process_commands(message)
+	# Без этой строки бот застрянет на проверке мата и перестанет реагировать на команды
 
 
 async def setup(bot: commands.Bot):

@@ -22,3 +22,7 @@ async def on_ready():
 
 
 bot.run(DISCORD_TOKEN)
+
+
+time.sleep(1)
+asyncio.sleep(1)
