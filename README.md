@@ -3,8 +3,6 @@
 # Discord Модератор Бот
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![discord.py](https://img.shields.io/badge/discord.py-2.0+-green.svg)
 
 Бот для модерации Discord сервера. Автоматически удаляет сообщения с запрещёнными словами и выдаёт мут нарушителям.
